@@ -15,7 +15,5 @@ int main (){
 	putchar(c-32);}
    else  cout<<"FAIL";
     	
-	int i = c;
-	cout<<i;
 	return 0;
 }
